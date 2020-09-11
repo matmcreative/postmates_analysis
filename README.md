@@ -5,6 +5,7 @@
 * [Objective](#Objective)
 * [Number Process](#Process)
 * [Written Analysis](#Analysis)
+* [Visualizations](#Visualizations)
 * [Troubleshooting](#Troubleshooting)
 
 # Technologies
@@ -30,5 +31,8 @@ Assuming the role of a Marketing Analyst for Jumpman23, provide an analysis of t
 
 # Analysis
 
+
+# Visualizations | Tableau
+https://public.tableau.com/profile/lisa.reed.preston#!/vizhome/Jumpman23October2014Analysis/VehicleUsageStory?publish=yes
 
 # Troubleshooting
