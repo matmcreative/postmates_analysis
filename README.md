@@ -108,4 +108,4 @@ While bicycles are the most used, the time waiting for an order is also the long
 
 # Visualizations | Tableau
 Full Story can be found at:
-https://public.tableau.com/profile/lisa.reed.preston#!/vizhome/Jumpman23October2014Analysis/VehicleUsageStory?publish=yes
+https://public.tableau.com/profile/lisa.reed.preston#!/vizhome/Jumpman23October2014Analysis/VehicleUsageStory
